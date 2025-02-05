@@ -44,6 +44,6 @@ Few Shot Learning on Fake News Detection (GCN, BERT)
     <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=for-the-badge"/>
 </p>
 
-## GitHub Stats
+## GitHub Status
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmoniscute&theme=github_dark_dimmed&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.3"/>
